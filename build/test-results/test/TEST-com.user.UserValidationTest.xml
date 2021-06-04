@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.user.UserValidationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-04T05:50:09" hostname="DESKTOP-H2GFKVK" time="0.043">
+  <properties/>
+  <testcase name="givenFirstName_WhenProper_ShouldReturnTrue()" classname="com.user.UserValidationTest" time="0.043"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
